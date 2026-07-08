@@ -292,4 +292,4 @@ Copyright 2026
 
 ## Author
 
-**Rohit Kumar**
+Rohit Kumar
